@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>first</title>
-    <url>/omelette.github.io/2023/12/24/first/</url>
-    <content><![CDATA[<p>welcome!</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>代码块演示</title>
-    <url>/omelette.github.io/2023/12/24/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/</url>
-    <content><![CDATA[<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h2 id="sdnsajkdnj"><a href="#sdnsajkdnj" class="headerlink" title="sdnsajkdnj"></a>sdnsajkdnj</h2><p>迪斯科解放路口附近肯定是</p>
-<h2 id="jidjaskfj"><a href="#jidjaskfj" class="headerlink" title="jidjaskfj"></a>jidjaskfj</h2><p>是打开拉萨解放立刻搭街坊</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>图片名称</title>
-    <url>/omelette.github.io/2023/12/24/%E5%9B%BE%E7%89%87%E5%90%8D%E5%AD%97/%E5%9B%BE%E7%89%87%E5%90%8D%E5%AD%97/</url>
-    <content><![CDATA[<p><img src="/omelette.github.io/./img/top_img.jpg" alt="图片名称八个字"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>myfirstBlog</title>
-    <url>/omelette.github.io/2023/12/30/myfirstBlog/</url>
-    <content><![CDATA[<p>今天终于成功部署了，好耶！</p>
+    <title>个人博客部署成功！</title>
+    <url>/omelette.github.io/2023/12/30/happyStart/</url>
+    <content><![CDATA[<blockquote>
+<p>Sincerely speaking,一直想要一个个人博客系统，这几天研究了一下怎么去完成。<br>顺带学习了一下github，这个系统基于hexo的butterfly主题，本身没有什么难度，主要是通过配置实现的，通过搭建这样一个博客系统可以让我们基本了解搭建上线博客的基本流程，感觉还是很不错的。</p>
+</blockquote>
+<p>不过后续我希望自己可以继续探索，完成一个属于自己的个人网站，现在我觉得这个博客有点简陋，不过对于一般做笔记的同学来说的话应该是够用了。</p>
 ]]></content>
   </entry>
 </search>
